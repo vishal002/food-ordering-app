@@ -12,5 +12,5 @@ Run `npm run build` to build the project. The build artifacts will be stored in 
 
 
 ## App Snapsorts
-![Home Page](https://github.com/vishal002/todo-app/blob/master/src/img/demo_home_page.JPG?raw=true)
-![Cart Modal](https://github.com/vishal002/food-ordering-app/src/assets/demo_cart_modal.JPG?raw=true)
+![Home Page](https://github.com/vishal002/food-ordering-app/blob/main/src/assets/demo_home_page.JPG?raw=true)
+![Cart Modal](https://github.com/vishal002/food-ordering-app/blob/main/src/assets/demo_cart_modal.JPG?raw=true)
