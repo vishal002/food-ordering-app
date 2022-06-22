@@ -1,4 +1,4 @@
-# Food Ordering App
+# Food Ordering App -- React App
 
 This project was generated with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) version 17.0.1.
 
